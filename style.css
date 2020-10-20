@@ -1,0 +1,80 @@
+#titulo {
+    color: #007BFF;
+    text-align: center;
+    padding: 20px;
+}
+
+.foto img {
+    width: 250px;
+    height: 315px;
+    padding-top: 8%;
+    padding-bottom: 20px;
+}
+
+.container h4 {
+    color: #007BFF;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.container h5 {
+    color: #007BFF;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.formacao-academica h4 {
+    padding-top: 20px;
+}
+
+.formacao-academica {
+    margin-left: 5%;
+}
+
+.ensino-superior {
+    width: 300px;
+}
+
+.ensino-medio {
+    width: 300px;
+}
+
+.ensino-fundamental {
+    width: 300px;
+}
+
+.areas-interesse {
+    width: 300px;
+}
+
+.competencias-habilidades {
+    width: 300px;
+}
+
+.idiomas {
+    width: 300px;
+}
+
+.informacoes-complementares h4 {
+    padding-top: 20px;
+}
+
+.informacoes-complementares  {
+    margin-left: 3%;
+}
+
+.carreira {
+    margin-left: 10%;
+}
+
+.carreira h4 {
+    padding-top: 20px;
+}
+
+.projetos {
+    width: 350px;
+}
+
+.trabalhos {
+    width: 350px;
+}
